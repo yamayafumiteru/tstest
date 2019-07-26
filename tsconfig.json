@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "outDir": "./build",
+      "rootDir": ".",
+  
+      "alwaysStrict": true,
+      "inlineSourceMap": true,
+      "noEmitOnError": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "pretty": true,
+      "strictNullChecks": true
+    }
+  }
